@@ -14,5 +14,4 @@
 Nagesh-Panditi-DataEngineer/Nagesh-Panditi-DataEngineer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![image](https://github.com/Nagesh-Panditi-DataEngineer/Nagesh-Panditi-DataEngineer/assets/148000340/dc5e7239-4110-4473-bc8a-13afea6928dd)
 
